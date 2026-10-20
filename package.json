@@ -1,0 +1,7 @@
+{
+  "name": "protect-me-at",
+  "description": "Versioned privacy policy and terms of service shared by every *.me.at site",
+  "homepage": "https://protect.me.at",
+  "private": false,
+  "license": "SEE LICENSE IN LICENSE"
+}
