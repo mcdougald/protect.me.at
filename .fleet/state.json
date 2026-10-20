@@ -2,7 +2,7 @@
   "domain": "protect.me.at",
   "network": "me.at",
   "generator": "@repo/app-shell/repo-fleet",
-  "contentHash": "8eabcb0585cb25d72655d608eba220c72e844b3eb29533b40775d7ec57c301ff",
+  "contentHash": "9cfc34dfae3bb598929abf3f700f554b9e03ca646e032a10ea9a964e0603da21",
   "lastSyncedAt": "2026-10-20",
   "paths": [
     ".github/CODEOWNERS",

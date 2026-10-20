@@ -4,13 +4,13 @@ I build Protect in my private monorepo, next to the rest of my `*.me.at` apps.
 This file mirrors that work. Every sync regenerates it from the monorepo's
 history for this app, so it changes when the app does.
 
-Latest change: **2026-10-19**
+Latest change: **2026-10-20**
 
 ## By week
 
 | Week of | Commits | Files touched |
 |---|---:|---:|
-| 2026-10-19 | 6 | 12 |
+| 2026-10-19 | 7 | 13 |
 | 2026-10-12 | 5 | 21 |
 | 2026-10-05 | 3 | 23 |
 | 2026-09-28 | 9 | 86 |
